@@ -1,0 +1,5 @@
+AddHandler application/x-httpd-php53 .php
+RewriteEngine on
+RewriteCond $1 !^(index\.php|tmp|captcha|files|user_guide|uploads|resources|robots|\.txt)
+RewriteRule ^(.*)$ /index.php/$1 [L]
+AddHandler application/x-httpd-php53 .php

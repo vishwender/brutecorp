@@ -1,0 +1,204 @@
+/** COLOR SCHEME **/
+
+blockquote::before,
+.flat .plan li>strong,
+.check-list li:before {
+    color: #00458e;
+}
+
+.section-title h3::after,
+.navbar-nav > li:hover,
+.navbar-nav > li:focus,
+.navbar-nav > li:hover a,
+.navbar-nav > li:focus a,
+.navbar-default .navbar-nav > .active > a, 
+.navbar-default .navbar-nav > .active > a:hover, 
+.navbar-default .navbar-nav > .active > a:focus {
+    border-bottom-color: #00458e !important;
+}
+
+.tab-style-1 .nav-tabs > li:hover > a,
+.tab-style-1 .nav-tabs > li.active > a {
+  border-top-color: #00458e;
+}
+.visible-buttons span, .my_featureRow:hover {
+    background-color: #fafcff !important;
+}
+.colorful img,
+.tags a,
+.carousel-control.left,
+.carousel-control.right,
+.progress-bar-primary,
+.first-accordion .panel-default > .panel-heading,
+.pricing-bigger .pricing-header,
+.small-title hr,
+.rounded-services i,
+.bluebghead,
+#pricing-table .pricing .pricing-table .pricing-header,
+.flat .plan li.plan-name,
+.nav-pills > li:hover a,
+.nav-pills > li:focus a,
+.nav-pills > li.active > a, 
+.nav-pills > li.active > a:hover, 
+.nav-pills > li.active > a:focus,
+.footer,
+.smallsec,
+.my_planHeader.my_plan3,
+mark,
+.btn-default {
+  color: #fff;
+  border-color: #00458e;
+  background-color: #101010;
+
+}
+
+.portfolio-filter .btn-default:active:hover,
+.portfolio-filter .btn-default.active:hover,
+.portfolio-filter .btn-default:active:focus,
+.portfolio-filter .btn-default.active:focus,
+.portfolio-filter .btn-default:active.focus,
+.portfolio-filter .btn-default.active.focus,
+.portfolio-filter .btn-default,
+#team-members .owl-nav [class*="owl-"],
+.loginbox {
+  color: #fff !important;
+  border-color: #00458e !important;
+   background-color: #00458e !important;
+}
+.accordion-toggle-2 .panel-heading a i,
+.btn-default:active,
+.btn-default.active,
+.open > .dropdown-toggle.btn-default,
+.btn-default.disabled:hover,
+.btn-default[disabled]:hover,
+fieldset[disabled] .btn-default:hover,
+.btn-default.disabled:focus,
+.btn-default[disabled]:focus,
+fieldset[disabled] .btn-default:focus,
+.btn-default.disabled.focus,
+.btn-default[disabled].focus,
+fieldset[disabled] .btn-default.focus,
+.btn-default .badge,
+.btn-default:active:hover,
+.btn-default.active:hover,
+.open > .dropdown-toggle.btn-default:hover,
+.btn-default:active:focus,
+.btn-default.active:focus,
+.open > .dropdown-toggle.btn-default:focus,
+.btn-default:active.focus,
+.btn-default.active.focus,
+.open > .dropdown-toggle.btn-default.focus,
+.btn-default:active,
+.btn-default.active,
+.open > .dropdown-toggle.btn-default,
+.btn-default:focus,
+.btn-default.focus,
+.btn-default:hover {
+  color: #fff !important;
+  background-color: #576CC3 !important;
+  border-color: #576CC3 !important;
+}
+
+
+.colorprimary {
+    background-color: #00458e !important;
+}
+
+.color1 {
+    background-color: #00458e !important;
+}
+
+.color2 {
+  background-color: #ffffff !important;
+}
+
+.color3 {
+  background-color: #ffffff !important;
+}
+.color4 {
+  background-color: #ffffff !important;
+}
+
+/** GREEN **/
+.twitter_feed li a,
+.pricing-bigger .pricing-body .fa-check,
+.hover-services .box i,
+#custom-search-input a {
+  color:#92b707 !important;
+} 
+a:hover,
+a:focus,
+.yamm-content .link-widget ul li:hover a {
+  color:#92b707;
+} 
+
+.team-member small,
+.first-accordion .panel-default > .panel-heading i,
+.ribbon-green,
+.tp-caption.rev-btn,
+.rev-btn,
+.btn-primary {
+  color: #fff;
+  background-color: #92b707;
+  border-color: #92b707;
+}
+
+.colorful:hover img,
+.shop-bottom,
+.pagination > li > a:hover,
+.pagination > li > span:hover,
+.progress-bar-info,
+.drop-caps p:first-child:first-letter,
+.greenbghead,
+.chat-wrapper .btn-primary:hover,
+.chat-wrapper .btn-primary:focus,
+.chat-wrapper .btn-primary,
+.chat-wrapper .panel-primary > .panel-heading {
+  color: #fff !important;
+  background-color: #92b707 !important;
+  border-color: #92b707 !important;
+}
+
+.notfound h2,
+.supportstaff,
+.tp-caption.rev-btn:hover,
+.tp-caption.rev-btn:focus,
+.rev-btn:hover,
+.rev-btn:focus,
+.btn-primary:active,
+.btn-primary.active,
+.open > .dropdown-toggle.btn-primary,
+.btn-primary.disabled:hover,
+.btn-primary[disabled]:hover,
+fieldset[disabled] .btn-primary:hover,
+.btn-primary.disabled:focus,
+.btn-primary[disabled]:focus,
+fieldset[disabled] .btn-primary:focus,
+.btn-primary.disabled.focus,
+.btn-primary[disabled].focus,
+fieldset[disabled] .btn-primary.focus,
+.btn-primary .badge,
+.btn-primary:active:hover,
+.btn-primary.active:hover,
+.open > .dropdown-toggle.btn-primary:hover,
+.btn-primary:active:focus,
+.btn-primary.active:focus,
+.open > .dropdown-toggle.btn-primary:focus,
+.btn-primary:active.focus,
+.btn-primary.active.focus,
+.open > .dropdown-toggle.btn-primary.focus,
+.btn-primary:active,
+.btn-primary.active,
+.open > .dropdown-toggle.btn-primary,
+.btn-primary:focus,
+.btn-primary.focus,
+.btn-primary:hover {
+  color: #fff !important;
+  background-color: #73aa33 !important;
+  border-color: #73aa33 !important;
+}
+
+
+.big-title h3 font {
+    font-size: 16px;
+}

@@ -1,0 +1,1 @@
+<?php $layout_path = "admin_panel/"; $this->load->view($layout_path.$main); ?>

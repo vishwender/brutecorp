@@ -1,0 +1,6 @@
+->
+clients database on backend
+->
+amount charged, annual renewal, domain hosting,refrence, how many projects,web dev, invoice details, ready invoice through panel
+->sms api,renewal date, plus email, sms on 10 days left/email.
+
